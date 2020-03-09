@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\csharp\exercises\classIntro\obj\Debug\netcoreapp3.1\classIntro.csprojAssemblyReference.cache
+C:\Users\phili\workspace\csharp\exercises\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\csharp\exercises\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfo.cs
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.exe
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.deps.json
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.json
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.dev.json
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\phili\workspace\csharp\exercises\classIntro\bin\Debug\netcoreapp3.1\classIntro.pdb
+C:\Users\phili\workspace\csharp\exercises\classIntro\obj\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\phili\workspace\csharp\exercises\classIntro\obj\Debug\netcoreapp3.1\classIntro.pdb
